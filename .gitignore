@@ -3,3 +3,4 @@ modules/MyMainPackage/__pycache__/__init__.cpython-37.pyc
 modules/MyMainPackage/__pycache__/some_main_script.cpython-37.pyc
 modules/MyMainPackage/SubPackage/__pycache__/__init__.cpython-37.pyc
 modules/MyMainPackage/SubPackage/__pycache__/subscript.cpython-37.pyc
+handle_errors/__pycache__/cap.cpython-37.pyc
